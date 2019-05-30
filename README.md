@@ -3,7 +3,7 @@ This repository is for showing how Git and GitHub work
 Addin a line for rebasing. Adding a line for rebasing ex, then more chan
 ## Introduction
 This is introduction.
-
+update a emergency fix .
 ## Purpose
 As stated above, the main purpose is to provide simple examples
 for git training demo.
@@ -17,3 +17,4 @@ Sample website with plenty of files for demos
 Add text here.
 ##Copyright
 2014 Git Training . All rights reserved
+Add added
